@@ -23,6 +23,6 @@ class HelloController {
     }
      @RequestMapping("/bye")
     public String hello() {
-        return "Bye, Bye!!";
+        return "Bye, Bye!!!";
     }
 }
