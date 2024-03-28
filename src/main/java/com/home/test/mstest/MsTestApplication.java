@@ -21,4 +21,8 @@ class HelloController {
     public String hello() {
         return "Hello, World!";
     }
+     @RequestMapping("/bye")
+    public String hello() {
+        return "Bye, Bye!!";
+    }
 }
