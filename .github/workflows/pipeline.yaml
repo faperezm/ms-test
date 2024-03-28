@@ -9,5 +9,5 @@ on:
 
 jobs:
   call-workflow-passing-data:
-    uses: faperezm/workflow-templates/.github/workflows/generic.yaml@0main
+    uses: faperezm/workflow-templates/.github/workflows/generic.yaml@42c19631f43444959f4cae6f074ef68e3273ea0f
     #uses: faperezm/workflow-templates/.github/workflows/generic.yaml@052917e985304d4790d75760f26a464cf05725e0
