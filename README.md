@@ -3,4 +3,4 @@
 
 test
 test2
-azure_sql_password = abc
+azure_sql_password = abcd
