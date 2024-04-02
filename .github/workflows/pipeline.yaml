@@ -1,4 +1,4 @@
-name: build and test pipeline
+name: CI
 on:
   push:
     branches:
