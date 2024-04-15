@@ -51,7 +51,7 @@
 			<plugin>
 				<groupId>no.oms.maven</groupId>
 				<artifactId>pre-commit-maven-plugin</artifactId>
-				<version>LATEST_VERSION</version>
+				<version>v1.10.1</version>
 				<inherited>false</inherited>
 				<configuration>
 					<!-- The version of pre-commit you would like to use -->
