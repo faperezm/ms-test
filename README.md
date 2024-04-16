@@ -3,4 +3,6 @@
 
 test
 test2
-azure_sql_password = abcd
+test commit 3
+
+hotfix v1.0.0
